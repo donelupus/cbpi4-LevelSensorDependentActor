@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='cbpi4-GPIODependentActor',
+setup(name='cbpi4-LevelSensorDependentActor',
       version='0.0.1',
       description='CraftBeerPi Plugin',
       author='',
@@ -10,6 +10,6 @@ setup(name='cbpi4-GPIODependentActor',
       package_data={
         # If any package contains *.txt or *.rst files, include them:
       '': ['*.txt', '*.rst', '*.yaml'],
-      'cbpi4-GPIODependentActor': ['*','*.txt', '*.rst', '*.yaml']},
-      packages=['cbpi4-GPIODependentActor'],
+      'cbpi4-LevelSensorDependentActor': ['*','*.txt', '*.rst', '*.yaml']},
+      packages=['cbpi4-LevelSensorDependentActor'],
      )

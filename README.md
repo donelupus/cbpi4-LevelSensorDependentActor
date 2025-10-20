@@ -14,8 +14,8 @@
 - Installation:
 	- log in via ssh 
 	- clone from the GIT repo
-	- sudo pip install ./cbpi4-GPIODependentActor
-	- cbpi add cbpi4-GPIODependentActor
+	- sudo pip install ./cbpi4-LevelSensorDependentActor
+	- cbpi add cbpi4-LevelSensorDependentActor
 	
 - Changelog:
 	- 04.09.21: Initial commit
